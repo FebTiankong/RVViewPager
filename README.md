@@ -1,3 +1,3 @@
 # Hello
 recyclerview实现抖音短视频效果
-![image](https://github.com/这个就是你复制的GIF网址填在这里.gif)
+![image](https://github.com/https://github.com/FebTiankong/RVViewPager/blob/master/593f9f2a-4519-450a-a859-514915606739.gif)
